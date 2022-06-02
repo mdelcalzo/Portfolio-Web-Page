@@ -1,1 +1,14 @@
-
+// use background, color, font-family, font-size,
+// height, margin, padding, text-align
+h1 {
+  font-family: Arial, Tahoma, serif;
+}
+h2 {
+  font-family: Arial, Tahoma, serif;
+}
+h3 {
+  font-family: Arial, Tahoma, serif;
+}
+p {
+  font-family: Arial, Tahoma, serif;
+}
