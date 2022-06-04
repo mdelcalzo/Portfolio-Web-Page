@@ -1,17 +1,21 @@
 // use background, color, font-family, font-size,
 // height, margin, padding, text-align
+
 h1 {
-  font-family: Arial, Tahoma, serif;
-  text-align: center;
+  font-family: Adventure;
+  text-align: center
 }
+
 h2 {
   font-family: Arial, Tahoma, serif;
   text-align: center;
 }
+
 h3 {
   font-family: Arial, Tahoma, serif;
   text-align: center;
 }
+
 p {
   font-family: Arial, Tahoma, serif;
   text-align: center;
