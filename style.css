@@ -1,6 +1,7 @@
 // background, color, font-family, font-size, height, margin, padding, text-align 
 
-header.masthead {
+/*
+  header.masthead {
   padding-top: 6rem;
   padding-bottom: 3rem;
   text-align: center;
@@ -15,6 +16,7 @@ header.masthead {
   line-height: 1.2;
   color: #dc7646;
 }
+*/
 
 body {
   font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
