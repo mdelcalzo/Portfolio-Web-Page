@@ -28,6 +28,14 @@ h1, h2, h3, h4, h5, h6 {
   color: #343a40;
 }
 
+ol {
+  text-align: left;
+}
+
+ul {
+  text-align: left;
+}
+
 hr {
   border-width: 1px;
   border-color: rgba(255, 249, 251, 0.4);
