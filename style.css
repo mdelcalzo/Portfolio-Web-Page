@@ -20,7 +20,8 @@ body {
   font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
   color: #6c757d;
   background-color: #f8f9fa;
-}
+  padding-top: 6rem;
+  padding-bottom: 3rem;}
 
 h1, h2, h3, h4, h5, h6 {
   color: #343a40;
