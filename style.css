@@ -1,22 +1,6 @@
 // background, color, font-family, font-size, height, margin, padding, text-align 
 
-/*
-  header.masthead {
-  padding-top: 6rem;
-  padding-bottom: 3rem;
-  text-align: center;
-  background-color: #eadfc9;
-  background-repeat: no-repeat;
-  background-attachment: scroll;
-  background-position: center center;
-  background-size: cover;
-  font-family: 'Anton', sans-serif;
-  font-weight: 450;
-  font-size: 1.5rem;
-  line-height: 1.2;
-  color: #dc7646;
-}
-*/
+
 
 body {
   font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
@@ -24,19 +8,18 @@ body {
   text-align: center;
   background-color: #f8f9fa;
   padding-top: 6rem;
-  padding-bottom: 3rem;}
+  padding-bottom: 3rem;
+}
 
 h1, h2, h3, h4, h5, h6 {
   color: #343a40;
 }
 
-ol {
+li {
   text-align: center !important;
 }
 
-ul {
-  text-align: center !important;
-}
+
 
 hr {
   border-width: 1px;
