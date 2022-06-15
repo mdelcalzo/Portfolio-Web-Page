@@ -1,7 +1,7 @@
 // background, color, font-family, font-size, height, margin, padding, text-align 
 
 
-/*
+
 body {
   font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
   color: #6c757d;
@@ -9,6 +9,10 @@ body {
   background-color: #f8f9fa;
   padding-top: 6rem;
   padding-bottom: 3rem;
+}
+
+li {
+  text-align: center;
 }
 
 h1, h2, h3, h4, h5, h6 {
@@ -28,4 +32,4 @@ a:hover {
   color: #93ada4;
   text-decoration: none;
 }
-*/
+
