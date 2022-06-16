@@ -1,10 +1,11 @@
-body {
+header {
   text-align: center;
-  background-color: #eadfc9;
-  font-family: 'Anton', sans-serif;
-  color: #dc7646;
 }
 
-h1, h2, h3, h4, h5, h6 {
-  color: #343a40;
+main {
+  text-align: center;
+}
+
+footer {
+  text-align: center;
 }
