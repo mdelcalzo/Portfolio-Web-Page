@@ -9,3 +9,9 @@ header {
   padding-top: 6rem;
   padding-bottom: 3rem;
 }
+
+ul, ol {
+  margin: 25px;
+  padding: 25px;
+}
+
