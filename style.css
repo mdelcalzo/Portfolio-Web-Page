@@ -1,13 +1,11 @@
 
 
 
-header {
+header, body, footer {
   font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
   color: #6c757d;
   text-align: center;
   background-color: #f8f9fa;
-  padding-top: 6rem;
-  padding-bottom: 3rem;
 }
 
 ul, ol {
